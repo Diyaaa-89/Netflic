@@ -1,1 +1,1 @@
-# Netflic
+# Netflix
